@@ -1,0 +1,2 @@
+1200 px x 900 px
+screenshot.png
